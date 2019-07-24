@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    border:3px solid rgb(137, 131, 127);
+    border-radius: 5px;
+    display: block;
+    margin:10px;
+    padding:10px;
+    padding-block: 10px;
+    background-color: rgb(207, 197, 191);
+  }
+.center{ text-align: center;
+        border:rgb(137, 131, 127) 10px double;
+        border-radius: 7px;
+        padding: 20px;
+        margin: 1px;
+}
+.centery{ text-align: center;
+        border:rgb(137, 131, 127) 4px solid;
+        border-radius: 7px;
+        padding: 20px;
+        margin: 1px;
+        background: rgb(207, 197, 191);
+}
+#vodka{ text-align: center;
+        vertical-align: middle;
+        border:rgb(137, 131, 127) 4px solid;
+        border-radius: 7px;
+        padding: 13px;
+        margin: 5px;
+        background: rgb(255,246,237);
+}
+#loveya {
+  display: grid;
+        grid-template-columns: 3fr 4fr 4fr;
+        grid-column-gap: 10px;
+        padding:10px;
+}
+.sundol{
+  padding:5px;
+  text-align:center;}
+}
+.center p { vertical-align: middle;}
+body{
+    font-family: 'Noto Serif KR', serif;
+  }
